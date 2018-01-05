@@ -1,3 +1,5 @@
+* Update Bourbon to 5.0.0
+
 1.45.0 (September 8, 2017)
 
 * Bump Rails to 5.1.3 (#857)
